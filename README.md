@@ -1,2 +1,3 @@
-# TEEE-Rob-tica
-Código feito para uma disciplina de robótica na graduação
+# TEEE-Robotica
+Código feito em que se testa algumas funcionalidades do software matlab relacionados a visão computacional
+
